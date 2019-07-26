@@ -1,0 +1,17 @@
+.container{
+  width: 200px;
+  height: 200px;
+  border: 4px solid #DAA520;
+  background: #FFDEAD;
+  position: relative;
+}
+.centro {
+  
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 20px;
+  color: #B22222;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
